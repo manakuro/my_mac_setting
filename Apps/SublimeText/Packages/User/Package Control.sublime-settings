@@ -1,0 +1,62 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Additional PHP Snippets",
+		"Alignment",
+		"All Autocomplete",
+		"ApacheConf.tmLanguage",
+		"AutoFileName",
+		"Babel",
+		"Blade Snippets",
+		"Codecs33",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"CSS Snippets",
+		"CSScomb",
+		"DataConverter",
+		"DocBlockr",
+		"Goto-CSS-Declaration",
+		"GotoDocumentation",
+		"HTML Boilerplate",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"jQuery",
+		"jQuery Snippets pack",
+		"Laravel Blade Highlighter",
+		"Package Control",
+		"React Development Snippets",
+		"React Templates",
+		"ReactJS",
+		"ReactJS Snippets",
+		"Sass",
+		"SCSS",
+		"SCSS Snippets",
+		"SFTP",
+		"SideBarEnhancements",
+		"SimpleClone",
+		"Sublime Files",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-jsxhint",
+		"SublimeLinter-php",
+		"SublimeLinter-ruby",
+		"SublimeOnSaveBuild",
+		"Sublimerge Pro",
+		"Syntax Highlighting for Sass",
+		"Tag",
+		"TypeScript",
+		"TypescriptCompletion",
+		"wpseek.com WordPress Developer Assistant"
+	],
+	"repository_channels":
+	[
+		"http://sublime.wbond.net/repositories.json"
+	]
+}
