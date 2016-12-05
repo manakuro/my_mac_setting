@@ -1,0 +1,3 @@
+[
+    { "keys": ["super+ctrl+q"], "command": "alignment" }
+]

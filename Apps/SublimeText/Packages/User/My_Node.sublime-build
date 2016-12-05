@@ -1,0 +1,4 @@
+{
+    "cmd": ["node", "$file"],
+    "path": "/usr/local/bin/"
+}
